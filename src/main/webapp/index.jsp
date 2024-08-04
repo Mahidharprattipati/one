@@ -12,7 +12,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
         -->
-	<h1 style="color: blue; font-size: 40px;" align="center">praveen loves anitha</h1>
+	<h1 style="color: blue; font-size: 40px;" align="center">pooja loves Rayudu</h1>
 	
 	
 	
